@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Noah's dove; with a green olive-leaf, or, The national covenant, and solemn league renewed. That it was antecedently a duty, before it was made and sworn, delineated and proved to what; and how far it was obligatory ... to the suffering remnant, of the Protestant Reformed Church in Scotland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04495</idno>
+            <idno type="STC">Wing N1192A</idno>
+            <idno type="STC">ESTC R181020</idno>
+            <idno type="EEBO-CITATION">53299203</idno>
+            <idno type="OCLC">ocm 53299203</idno>
+            <idno type="VID">179943</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179943)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2808:48)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Noah's dove; with a green olive-leaf, or, The national covenant, and solemn league renewed. That it was antecedently a duty, before it was made and sworn, delineated and proved to what; and how far it was obligatory ... to the suffering remnant, of the Protestant Reformed Church in Scotland.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Scotland? :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Church history --  17th century --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179943:1"/>
+            <!-- PDF PAGE 3 -->
+            <head>NOAH'S DOVE, with a green Olive-Leaf, OR, The <hi>National Covenant,</hi> and <hi>Solemn League</hi> Renewed.</head>
+            <head type="sub">That it was Antecedently a Duty, before it was made and ſworn, delineated and proved To what; and how far it was Obligatory.</head>
+            <epigraph>
+               <bibl>Zechariah Ch: 14:</bibl>
+               <q>He ſhall be King over all the Earth! His Name ONE.</q>
+               <bibl>John 17: 11: v:</bibl>
+               <q>Chriſts mouth prays for a ſpecifick <g ref="char:V">Ʋ</g>nion.</q>
+               <q>
+                  <l>Octogeſimus, Octavus, mirabilis Annus,</l>
+                  <l>Clade Papiſtarum fauſtus ubique piis.</l>
+               </q>
+            </epigraph>
+            <opener>
+               <salute>To the ſuffering Remnant, of the <hi>Proteſtant</hi> Reformed Church in <hi>Scotland.</hi>
+               </salute>
+            </opener>
+            <p>THe BIBLE aſſures us, <hi>The Earth ſhall diſcloſe her Dead, and no more cover her ſlain.</hi> The Widows <hi>bloody napkin</hi> crys, <hi>how long!</hi> GODS book is by Him, and His bottle by Him, He will hold a Court of Oppreſſion, <hi>Pſalm 9. Antichriſt</hi> has carried the Grapes of Chriſts Fleſh into the Wine-preſs of the wrath of GOD, and ſqueezed it by wicked men, who are GODS Hands and his Sword, <hi>ſayeth David,</hi> yet he keeps the handle in his own hand: Tho no ſimple National or Perſonal intereſt, can anſwer the great Deſign of God either in his Glorious Manifeſtation! or Marvellous Diſpenſation, a <hi>Wheal in a Wheel,</hi> and <hi>Hand under the Wing,</hi> or by <hi>Blazing Comet;</hi> in the 1681: and 1682: whereon we obſerved, <hi>then</hi> in Print, what was relative to the riſe, reign, ruine <hi>of the man of ſin.</hi> Yet as <hi>Iſrael</hi> a choſen Family of old, ſo other nations ſince may be ſaid, to be more dear, and near GOD! Whom He brings into the ſchool of Correction, when others are brought in<g ref="char:EOLhyphen"/>to the place of Execution, elſe we had been as <hi>Sodom;</hi> witneſs that famous <hi>Bohemian</hi> Mar<g ref="char:EOLhyphen"/>tyr, a Noble Man, ardently in priſon, imploring the <hi>Mediator</hi> for a ſign of that poor Churches Reſtauration, and accordingly <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Rain-Bow</hi> appeared over the Execution place; and he ſung that <hi>Pſalm</hi> 85. 17. A ſymptome that GOD will rake up the Aſhes of that Church, as Ours upon theſe Conſiderations.</p>
+            <p>
+               <label>Con: 1.</label> We were previouſly bound to extirpat <hi>Popery,</hi> which is <hi>Idolatry,</hi> overturning the Foundation of Religion, either in flat terms, or by conſequence of the <hi>Coſſandrian</hi> Do<g ref="char:EOLhyphen"/>ctrine, whoſe <hi>League</hi> makers we enervat, in that Book printed in 1<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>8<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: Entituled, <hi>Scot<g ref="char:EOLhyphen"/>land pulling down the gates of Rome:</hi> Proving the difficulty of the Salvation of a <hi>Papiſt</hi> living and dying in <hi>Perjury</hi> and <hi>Idolatry. Theſſ:</hi> 2 Ch: 11: v: No Faith, no Covenant, keep either to GOD, or Man, but kill, murder and deſtroy, ſuch truculent practices are Mercenary duties, witneſs their own <hi>Patriots,</hi> and the <hi>Jeſuits morals.</hi>
+            </p>
+            <p>
+               <label>Con: 2.</label> Prelacy in <hi>Scotland,</hi> is a bitter <hi>Sprig</hi> of the ſame Tree, ſpringing from the verge of the <hi>Civil Roman Empire,</hi> as Learned <hi>Burnet</hi> and <hi>Baxter</hi> delineats! It's true the Univer<g ref="char:EOLhyphen"/>ſity of <hi>Salmon</hi> ſay: that there is no model of <hi>Primitive Church diſcipline,</hi> but that God hath left, in <hi>equilibrio</hi> to humane choice. (When all Divines agree, that the Eſſentials of a <hi>Church Officer,</hi> are in ruling as well as teaching.) But they afterwards check themſelves in a Recantation. The Laws of <hi>England,</hi> ſay, we grant, and we give to the <hi>Clergy,</hi> the Title of <hi>Lords, Jure Carolino,</hi> but go near, to make it Treaſon, if they ſhould plead <hi>Jure Divino.</hi> tho we, derogare, nothing from the <hi>Biſhops</hi> of <hi>Englands</hi> due worth: reſembling in their Lives more the <hi>Scripture Biſhops</hi> then ours! Pious <hi>
+                  <g ref="char:V">Ʋ</g>ſher</hi> calls himſelf <hi>Primus Presbyteriorum.</hi> Yet their Famous Hiſtorian, <hi>Holingſhead</hi> commenſurates the dimentions of the <hi>Primitive Biſhops,</hi> according to their Paſtoral Relation; <hi>unus Epiſcopus</hi> was the note of their individination. And <hi>Ignatius</hi> requires to know, their flock by name, denominating their Church, <hi>Frater<g ref="char:EOLhyphen"/>nity, Conſociation,</hi> Or <hi>Presbytery.</hi> Taking <hi>Epiſcopacy</hi> of overſight willingly! <hi>Pamelius, Albaſpi<g ref="char:EOLhyphen"/>neus.</hi> Hence there is no Delegation, of teaching and ruling Power, eſtabliſhing <hi>non reſi<g ref="char:EOLhyphen"/>dency:</hi> Can the <hi>Privy Seal</hi> of a Nation delegat his Charge, <hi>Chriſts Royal Prieſthood,</hi> to the hands of <hi>Hirelings,</hi> whoſe Sword is on their right Arm, and right Eye utterly Darkned Which we have diſcuſſed in the <hi>Diſcipline</hi> of <hi>Chriſtian Religion,</hi> Printed in the 84 So that a <hi>Scripture Biſhop,</hi> is nothing elſe ſave a Preſes or Speaker in a <hi>Parliament,</hi> elſe its Oligar<g ref="char:EOLhyphen"/>thical Tyrranny! Thus of the Authority which the Lord hath given to us not for de<g ref="char:EOLhyphen"/>ſtruction, but for your Edification againſt <hi>Popery</hi> which is Idolatry, Prelacy: Perjury, Tolerarion, a Grave for Reformation.</p>
+            <p>
+               <label>Con: 3.</label> We do not retreat from a poſitive <hi>Divine Law,</hi> to a <hi>Covenant Law,</hi> Save when <hi>Johns</hi> and <hi>Iſrael</hi> Prince and People, enter in a Solemn Covenant, the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eath wherto
+<pb n="2" facs="tcp:179943:1"/>
+               <!-- PDF PAGE 3 -->
+in Perjury and Bloodſhed; GOD avengeth and expiateth by a Thunderbolt of his wrath on the race of <hi>Saul</hi> for many years after. As alſo <hi>Almerick</hi> King of <hi>Jeruſalem, <g ref="char:V">Ʋ</g>ladiſlains</hi> break<g ref="char:EOLhyphen"/>eth Covenant with the <hi>Turks, Herold</hi> laſt King of the <hi>Danes</hi> in <hi>England!</hi> Nor can we ſhelter our ſelves by the Irregularities of <hi>Joſhuas</hi> Covenant, for they do not annihilat the Obliga<g ref="char:EOLhyphen"/>tion; it being only the ſinfuln<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs of the matter ſworn, not the circumſtances converſant about the Act of Swearing Tho <hi>Jephtha</hi> ſhould be robbed of their deareſt delights and <hi>Zedekiah,</hi> beſieged with Tumults within and Warrs without! Hea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken <hi>Biſhop Hall,</hi> the facilite of <hi>Iſrael,</hi> led them into a Covenant, yet moſt they not in ringe their Oath, <hi>&amp;c.</hi> King <hi>Charles</hi> 1ſt, adviſes to keep Covenant in all Juſt wayes to his Son King <hi>Charles</hi> the 2d. The Kirk of <hi>Scotland</hi> was unite 54 years by means of Diſcipline. Learned <hi>Biſhop Sanderſon</hi> grants the vanity of that Diſtinction: Relaxation of the matter and of the Oath! But ſome ſay, a King cannot be under the Laws of Federacy. But ſay I, how then is he under the Laws of <hi>Matrimonie.</hi>
+            </p>
+            <p>
+               <label>Con:</label> My will contracts according to what my knowledge reacheth: mutually eſpouſ<g ref="char:EOLhyphen"/>ing Perſons, Lives, Goods, <hi>&amp;c.</hi> The Commons Eſpouſing, the Miniſters, in reſcuing, them from Death: tho we have been Eye Witneſs to the Pilla<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, R<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bbing, yea Murdering 1<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>00 and 5<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men, 9 Women; within theſe 27 years who ſealed this with their Blood. We ſhall for Antiquity of <hi>Presbytery,</hi> refer you to he convyance of <hi>Presbytery</hi> done by us. Hence to be the witneſs to thoſe Barbarities, where Mens hearts were ſhot thorow their Backs, and Noſes ſhot thorow their Necks, in the open Field, and many died in the Mountains, <hi>and not in their ſtation.</hi> To aſſiſt made us as guilty as we had been the Actors; And this we may read love in GODS Heart, yet there is wrath in His Hands (till we humble our ſelves under the Mighty Hand of GOD, by ſincere Faſting and Prayer) ſeeing a volumn betwixt the Sun and the Earth could not contain our Perju<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies, Apoſta<g ref="char:EOLhyphen"/>cys, <hi>&amp;c.</hi> Chriſts dethroning ſupremacy, yea, exquiſite tortoring by Boots, by Pricks, Thumikens, and fire matcheſs drowning Women very young, of ſome exceeding Aged. Yet ſure I am: Tho' I cannot Determine, whether it ſhall be by a Formal <hi>Sworn Covenant:</hi> or more Glorious Manifeſtation: that CHRIST ſhall be a <hi>Crown<g ref="char:EOLhyphen"/>ed King</hi> over his Church: againſt <hi>Papiſts, Athieſts, Anabaptiſts.</hi> Yea that <hi>Scotsmen,</hi> ſhall darken the Seat of the <hi>Beaſt,</hi> the <hi>Revelation</hi> alluding to <hi>Scotizei</hi> in the <hi>Greek Language.</hi>
+            </p>
+            <p>Thus have we cleared the lawfulneſs of the <hi>Covenant,</hi> againſt <hi>Popery, Prelacy, Toleration,</hi> that <hi>Popiſh <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ugar plumb,</hi> betraying the Mediatory glory of CHRIST, into the hands of Tyra<g ref="char:EOLhyphen"/>ny, and Lawleſs Liberty: Yet are 44. Miniſters who did not accept it, only among the cauſes of GODS Wrath, we fear, I <hi>Kings</hi> 20. 43. Becauſe thou let the man go whom I pointed to utter deſtruction.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
